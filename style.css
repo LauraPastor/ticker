@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+.tickers a {
+  padding-right: 25px;
+  color: #27DC57;
+  text-decoration: none;
+}
+
+.tickers {
+  position: absolute;
+  white-space: nowrap;
+  left: 100%;
+  font-size: 25px;
+}
+
+.video {
+  text-align: center;
+  margin:0 auto;
+  display: block;
+  width: 100%;
+  position: absolute;
+	top: 15%;
+	}
